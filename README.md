@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kasidatep
 - 👀 I’m interested in ... Data Science
-- 🌱 I’m currently project ... [ KASIDATE.ME ](https://github.com/KASIDATE.ME
+- 🌱 I’m currently project ... [ KASIDATE.ME ](https://github.com/KASIDATE.ME )
 - 🌱 I’m currently learning ... JAVA / JAVASCRIPT
 - 📫 How to reach me ... [ < Discord K+ > discord.kasidate.me ](https://kasidate.me/discord)
 - 🦄 Facebook Profile ... [Bank Kaidate](http://facebook.com/kasidate.p)
