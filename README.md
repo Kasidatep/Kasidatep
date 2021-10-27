@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ... JAVA / JAVASCRIPT
 - 📫 How to reach me ... [ < Discord K+ > discord.kasidate.me ](https://kasidate.me/discord)
 - 🦄 Facebook Profile ... [Bank Kasidate](https://facebook.com/kasidate.p)
-- 🦄 Instagram Profile ... [@bank_kasidate](https://instagram.com/@bank_kasidate)
+- 🦄 Instagram Profile ... [@bank_kasidate](https://instagram.com/bank_kasidate)
 - 🦄 Twitter Profile ... [@bank_kasidate](https://twitter.com/bank_kasidate)
 - 🦄 Youtube Profile ... [KasidateToday](https://www.youtube.com/channel/UCnRHbPAYLQXu96SZXBlSPrw)
 - 🪐 Website ... [Kasidate.me](https://kasidate.me)
