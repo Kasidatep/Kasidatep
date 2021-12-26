@@ -8,7 +8,7 @@
 - 🦄 Twitter Profile ... [@bank_kasidate](https://twitter.com/bank_kasidate)
 - 🦄 Youtube Profile ... [KasidateToday](https://www.youtube.com/channel/UCnRHbPAYLQXu96SZXBlSPrw)
 - 🪐 Website ... [Kasidate.me](https://kasidate.me)
-- 🐔 Blog ... [web.kasidate.me or kasidate.today](http://web.kasidate.me)[old]
+- 🐔 Blog ... [blog.kasidate.today](https://blog.kasidate.me)
 <!---
 Kasidatep/Kasidatep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
