@@ -10,7 +10,7 @@
 - 🪐 Website ... [Kasidate.me](https://kasidate.me)
 - 🐔 Blog ... [blog.kasidate.me](https://blog.kasidate.me)
 - 🐔 My Diary ... [diary.kasidate.me](https://diary.kasidate.me)
-Mail contact ... [bank@kasidate.me](mailto:bank@kasidate.me)
+-  Mail contact ... [bank@kasidate.me](mailto:bank@kasidate.me)
 <!---
 Kasidatep/Kasidatep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
