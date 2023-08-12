@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... [KasidatePLUS](https://github.com/KasidatePLUS)
 - 🌱 I’m currently learning ... ExpressJS, JAVA SpringAPI, VueJS, NuxtJS, etc.
 - 📫 How to reach me: ...
-  - Kasidate's Link Hub : [iam.Kasidate.me](https://iam.Kasidate.me)
+  - Kasidate's Link Hub : [iam.Kasidate.me](http://iam.Kasidate.me)
   - Facebook : [Kasidate Phlaiphueak](https://facebook.com/Kasidatep)
   - Instagram : [@Kasidatep](https://instagram.com/Kasidatep)
   - LinkedIn : [Kasidatep](https://www.linkedin.com/in/kasidatep/)
